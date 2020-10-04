@@ -1,8 +1,9 @@
 # cic-code-ga
 Code Improvement Commission - structured HTML State Codes of Georgia (GA)
 
-Following release are included:
+This repository was created by UniCourt on behalf of Public.Resource.Org. All this work is in the public domain and there are NO RIGHTS RESERVED.
 
+Following release are included:
 
 * Release 70 dated 2018.12.01.
 * Release 71 dated 2019.03.05.
