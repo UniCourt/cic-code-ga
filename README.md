@@ -3,7 +3,7 @@ Code Improvement Commission - structured HTML State Codes of Georgia (GA)
 
 This repository was created by UniCourt on behalf of [Public.Resource.Org](https://public.resource.org/). All this work is in the public domain and there are NO RIGHTS RESERVED.
 
-Following release are included:
+Following releases are included:
 
 * Release 70 dated 2018.12.01.
 * Release 71 dated 2019.03.05.
