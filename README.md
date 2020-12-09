@@ -19,3 +19,7 @@ Code which generates these files can be found here: https://github.com/UniCourt/
 Original RTF files can be found here: https://archive.org/download/gov.ga.ocga.2018
 
 The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ga/ 
+
+###### Other state Codes:
+
+**Arkansas (AR):** https://unicourt.github.io/cic-code-ar
