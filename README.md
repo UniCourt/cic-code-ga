@@ -40,4 +40,6 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ga
 
 **Virginia (VA):** https://unicourt.github.io/cic-code-va
 
+ **Vermont (VT):** https://unicourt.github.io/cic-code-vt
+
 
