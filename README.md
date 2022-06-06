@@ -49,3 +49,4 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ga
 
 **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
 
+**Alaska (AK):** https://unicourt.github.io/cic-code-ak
