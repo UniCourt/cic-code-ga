@@ -20,7 +20,7 @@ Following releases are included:
 * Release 82 dated 2021.12.
 * Release 83 dated 2022.02.
 * Release 84 dated 2022.04.
-* Release 85 dated 2022.07.
+
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
 
 Original RTF files can be found here: https://archive.org/download/gov.ga.ocga.2018
