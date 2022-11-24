@@ -46,7 +46,7 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ga
 
  **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
 
-
+ **Rhode Island (RI):** https://unicourt.github.io/cic-code-ri
  
  **Tennessee (TN):** https://unicourt.github.io/cic-code-tn
  
